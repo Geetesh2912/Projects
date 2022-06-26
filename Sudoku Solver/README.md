@@ -2,6 +2,7 @@
 
 # [Code](https://github.com/Geetesh2912/Projects/blob/main/Sudoku%20Solver/sudokuSolver.cpp) Walkthrough:
 
+#### Author: Geetesh Mandaogade
 Welcome to the explaination of my project Sudoku Solver using Backtracking.
 
 This project is implemented by me to gain a clear understanding of the topic algorithmic technique [backtracking](https://www.geeksforgeeks.org/backtracking-introduction/). Let's dive into each function of the code and understand what it does.
@@ -49,3 +50,6 @@ This is a screenshot after running the code in VS code terminal
 
 
 ![Output](output_sudokuSolver.png)
+
+
+
