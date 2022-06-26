@@ -1,6 +1,6 @@
 # Sudoku Solver using backtracking.
 
-# [Code](/sudokuSolver.cpp) Walkthrough:
+# [Code](https://github.com/Geetesh2912/Projects/blob/main/Sudoku%20Solver/sudokuSolver.cpp) Walkthrough:
 
 Welcome to the explaination of my project Sudoku Solver using Backtracking.
 
